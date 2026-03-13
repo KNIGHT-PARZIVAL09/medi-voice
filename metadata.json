@@ -1,0 +1,5 @@
+{
+  "name": "MediVoice AI",
+  "description": "A comprehensive healthcare platform featuring AI voice agents for patient intake, risk prioritization, and collaborative digital whiteboards for doctors.",
+  "requestFramePermissions": ["microphone"]
+}
